@@ -1,0 +1,1 @@
+// Full test file content for ProviderFeature.test.tsx

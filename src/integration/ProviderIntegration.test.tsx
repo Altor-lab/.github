@@ -1,0 +1,1 @@
+// Full integration test file content for ProviderIntegration.test.tsx
